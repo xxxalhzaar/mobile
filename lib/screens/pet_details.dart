@@ -57,7 +57,7 @@ class _PetDetailsState extends State<PetDetails> {
                                     backgroundImage:
                                         AssetImage('images/pet_cat1.png'),
                                   ),
-                                  title: Text('Maya Berkovskaya',
+                                  title: Text('kocak Berkovskaya',
                                     style: TextStyle(
                                         fontWeight: FontWeight.bold,
                                         color: Colors.grey[700]
